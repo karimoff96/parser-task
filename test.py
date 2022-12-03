@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import datetime
 import collections
 import csv
-import pandas as pd
 import json
 
 
