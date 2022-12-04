@@ -78,5 +78,5 @@ def get_csv(filename: str):
     except IOError:
         return "I/O error"
 
-# get_json('dataset')
-# get_csv('file')
+get_json('dataset')
+get_csv('file')
